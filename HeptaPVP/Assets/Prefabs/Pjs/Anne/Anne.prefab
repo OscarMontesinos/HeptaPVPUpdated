@@ -384,7 +384,7 @@ MonoBehaviour:
     sinergy: 60
     strength: 20
     pot: 0
-    atSpd: 1.5
+    atSpd: 1.85
     control: 30
     cdr: 0
     spd: 7
@@ -401,10 +401,10 @@ MonoBehaviour:
   aRange: 27
   aSpd: 40
   h1Arrow: {fileID: 4282777955935661697, guid: 040bd2432519578478decdc34b85dfa4, type: 3}
-  h1Dmg: 37.5
+  h1Dmg: 32.5
   h1Range: 35
   h1Spd: 50
-  h1CastTime: 1.2
+  h1CastTime: 0.5
   h2Arrow: {fileID: 4282777955935661697, guid: 8bff21752e7a89f40857189557afba51, type: 3}
   h2StormArrow: {fileID: 4282777955935661697, guid: 20c6fa19af9d3b24f910bc24b84b80f8, type: 3}
   h2Attacks: 5
